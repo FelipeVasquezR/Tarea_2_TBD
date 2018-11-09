@@ -1,5 +1,12 @@
 # Tarea_2_TBD GRUPO 2
 
+Integrantes:
+* Ignacio Farias
+* Barbara Peña
+* Felipe Vásquez
+* Carlos Alvarez
+
+
 En la carpeta de Backend_tbd_taller2 se encuentra el codigo correspondiente al Backend de la aplicacion
 
 ## Peticiones GET:
