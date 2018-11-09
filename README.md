@@ -1,4 +1,4 @@
-# Tarea_2_TBD
+# Tarea_2_TBD GRUPO 2
 
 En la carpeta de Backend_tbd_taller2 se encuentra el codigo correspondiente al Backend de la aplicacion
 
